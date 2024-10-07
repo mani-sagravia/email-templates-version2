@@ -1,0 +1,49 @@
+<mjml>
+  <mj-head>
+    <mj-style> h2,img,p { margin:0; } td{ padding-top:0 !important; } p {margin-bottom: 10px;}</mj-style>
+  </mj-head>
+  <mj-body background-color="#f0f1f3">
+    <!-- Logo Header -->
+    <mj-section background-color="#ffffff" padding-top="50px">
+      <mj-column>
+        <mj-spacer height="60px" />
+        <mj-image css-class="light_img" width="250px" src="https://www.businesshistory.co/logo.png" href="https://www.businesshistory.co" alt="logo" />
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text font-family="verdana, Arial" color="#000000">
+          <h2 style="font-size:18px;line-height:1.2;font-weight:700; margin-top:30px !important">The Fall of Enron</h2>
+        </mj-text>
+        <mj-text font-family="verdana, Arial" color="#000000">
+          <p style="font-family:-apple-system,BlinkMacSystemFont,'Avenir Next',Avenir,'Helvetica Neue',Helvetica,Ubuntu,Roboto,Noto,'Segoe ui',Arial,sans-serif;font-size:16px;line-height:1.6;">Once considered one of the most innovative companies in the world, Enron’s rise and fall became a symbol of corporate greed and accounting fraud. What started as a promising energy firm eventually turned into one of the largest bankruptcies in U.S. history, shocking investors and shaking confidence in the business world.</p>
+          <p style="font-family:-apple-system,BlinkMacSystemFont,'Avenir Next',Avenir,'Helvetica Neue',Helvetica,Ubuntu,Roboto,Noto,'Segoe ui',Arial,sans-serif;font-size:16px;line-height:1.6;">In the 1990s, Enron grew into a massive energy corporation, benefiting from deregulation in the energy market. This allowed them to move beyond the traditional energy business and into trading contracts for commodities like energy, water, and even weather. Enron’s ambition and aggressive strategies propelled it to new heights, with its stock price reaching impressive levels. They even launched an online trading platform, Enron Online, which handled billions of dollars in transactions. At its peak, Enron was hailed as a forward-thinking company shaping the future of global markets.</p>
+          <p style="font-family:-apple-system,BlinkMacSystemFont,'Avenir Next',Avenir,'Helvetica Neue',Helvetica,Ubuntu,Roboto,Noto,'Segoe ui',Arial,sans-serif;font-size:16px;line-height:1.6;">But behind the scenes, Enron was hiding its financial problems. To keep up appearances and meet the high expectations of investors, Enron began engaging in highly questionable accounting practices. The company used a method called "mark-to-market accounting," which allowed them to count future potential profits as current income. While this made the company's financial reports look impressive, it didn’t reflect the actual cash flow. Additionally, Enron set up complex partnerships and off-balance-sheet entities to hide its mounting debts and poor investments. For years, these tactics allowed Enron to keep its problems out of public view, but the company was essentially building its success on a foundation of lies.</p>
+        </mj-text>
+        <mj-image width="600px" src="https://www.businesshistory.co/email/images/bh-sep-27-1.jpg" alt="The Fall of Enron" />
+        <mj-text font-family="verdana, Arial" color="#000000">
+          <p style="font-family:-apple-system,BlinkMacSystemFont,'Avenir Next',Avenir,'Helvetica Neue',Helvetica,Ubuntu,Roboto,Noto,'Segoe ui',Arial,sans-serif;font-size:16px;line-height:1.6;">By 2001, the reality of Enron’s financial situation started to emerge. The company reported large losses, and its stock price, once as high as $90 per share, began to plummet. Investors and analysts grew suspicious, and the Securities and Exchange Commission (SEC) launched an investigation. As the truth came out, it became clear that Enron had been masking severe financial issues for years. The company had overstated its earnings and kept billions of dollars in debt off its books.</p>
+          <p style="font-family:-apple-system,BlinkMacSystemFont,'Avenir Next',Avenir,'Helvetica Neue',Helvetica,Ubuntu,Roboto,Noto,'Segoe ui',Arial,sans-serif;font-size:16px;line-height:1.6;">Enron's collapse was swift. In November 2001, the company admitted to overstating profits by nearly $600 million, and in December, it filed for bankruptcy. It was one of the largest bankruptcies in U.S. history at the time. Thousands of employees lost their jobs, and investors were left with billions in losses. The company’s top executives, including Kenneth Lay and CEO Jeffrey Skilling, were later convicted of fraud and other crimes. Enron’s accounting firm, Arthur Andersen, was found guilty of obstructing justice by destroying evidence and was eventually dissolved. </p>
+          <p style="font-family:-apple-system,BlinkMacSystemFont,'Avenir Next',Avenir,'Helvetica Neue',Helvetica,Ubuntu,Roboto,Noto,'Segoe ui',Arial,sans-serif;font-size:16px;line-height:1.6;">The Enron scandal shocked the business world and led to significant changes in corporate regulation. The U.S. government passed the Sarbanes-Oxley Act in 2002, which introduced stricter rules on corporate financial transparency and accountability. </p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding-top="20px" />
+      </mj-column>
+    </mj-section>
+    <!-- 2 columns section -->
+    <mj-section background-color="white">
+      <mj-column>
+        <mj-text font-family="verdana, Arial">
+          <div>
+            <a href="https://www.businesshistory.co/policy/terms-of-use" target="_blank" style="color:#667085;">Terms</a>
+            <a href="https://www.businesshistory.co/policy/privacy-policy" target="_blank" style="color:#667085;padding-left:10px;">Privacy</a>
+            <a href="https://www.businesshistory.co/policy/cookie-policy" target="_blank" style="color:#667085;padding-left:10px;">Cookies</a>
+            <a href="https://www.businesshistory.co/contact" target="_blank" style="color:#667085;padding-left:10px;">Contact us</a>
+          </div>
+          <p style="font-family:-apple-system,BlinkMacSystemFont,'Avenir Next',Avenir,'Helvetica Neue',Helvetica,Ubuntu,Roboto,Noto,'Segoe ui',Arial,sans-serif;color:#667085;padding-top:20px;line-height:2;"><a href="https://www.businesshistory.co/unsubscribe?email=test@test.com" target="_blank">Unsubscribe</a>.</p>
+          <p style="font-family:-apple-system,BlinkMacSystemFont,'Avenir Next',Avenir,'Helvetica Neue',Helvetica,Ubuntu,Roboto,Noto,'Segoe ui',Arial,sans-serif;color:#667085;padding-top:5px;line-height:2;">© 2024 Sagravia LLC, 30 N Gould St, Ste N, Sheridan, WY 82801, United States</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>

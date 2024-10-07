@@ -1,0 +1,131 @@
+<mjml>
+  <mj-head>
+    <mj-style> h2,img,p { margin:0; } td{ padding-top:0 !important; } p {margin-bottom: 10px;}</mj-style>
+  </mj-head>
+  <mj-body background-color="#f0f1f3">
+    <!-- Logo Header -->
+    <mj-section background-color="#ffffff" padding-top="50px">
+      <mj-column>
+        <mj-spacer height="60px" />
+        <mj-image padding="10px 12px" css-class="light_img" width="250px" src="https://www.businesshistory.co/logo.png" href="https://www.businesshistory.co" alt="logo" />
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="verdana, Arial" color="#000000">
+          <h2 style="
+              font-size: 18px;
+              line-height: 1.2;
+              font-weight: 700;
+              margin-top: 30px !important;
+            ">Xerox PARC: Pioneers Who Shaped Tech History</h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="verdana, Arial" color="#000000">
+          <p style="
+              font-family: -apple-system, BlinkMacSystemFont, 'Avenir Next',
+                Avenir, 'Helvetica Neue', Helvetica, Ubuntu, Roboto, Noto,
+                'Segoe ui', Arial, sans-serif;
+              font-size: 16px;
+              line-height: 1.6;
+            ">Xerox Corporation, founded in 1906 as The Haloid Photographic Company, initially focused on photographic paper and equipment. In 1959, the company made a revolutionary breakthrough with the introduction of the first commercially successful photocopier, the Xerox 914. This innovation transformed business operations, allowing for quick and easy duplication of documents, and quickly established Xerox as a household name synonymous with photocopying.</p>
+          <p style="
+              font-family: -apple-system, BlinkMacSystemFont, 'Avenir Next',
+                Avenir, 'Helvetica Neue', Helvetica, Ubuntu, Roboto, Noto,
+                'Segoe ui', Arial, sans-serif;
+              font-size: 16px;
+              line-height: 1.6;
+            ">In an effort to innovate beyond copiers, Xerox established the Palo Alto Research Center (PARC) in 1970. PARC was tasked with developing cutting-edge technologies that could extend Xerox’s expertise into new areas. The research facility became a hotbed for innovation, producing ideas that would eventually lay the foundation for modern computing.</p>
+          <p style="
+              font-family: -apple-system, BlinkMacSystemFont, 'Avenir Next',
+                Avenir, 'Helvetica Neue', Helvetica, Ubuntu, Roboto, Noto,
+                'Segoe ui', Arial, sans-serif;
+              font-size: 16px;
+              line-height: 1.6;
+            ">One of PARC's most significant achievements was the development of the <a href="https://www.britannica.com/topic/Alto-computer" target="_blank">Alto</a>, a pioneering personal computer introduced in 1973. The Alto featured a revolutionary graphical user interface (GUI) that allowed users to interact with the computer using a mouse and icons instead of cumbersome text commands. This intuitive design made computers accessible to a broader audience and fundamentally changed how users interacted with technology. However, despite its potential, Xerox's leadership viewed the Alto primarily as an internal tool for their researchers rather than a consumer market product. This decision meant that the Alto never reached the public, and Xerox lost the opportunity to establish itself as a leader in personal computing.</p>
+        </mj-text>
+        <mj-image padding="10px 12px" width="600px" src="https://www.businesshistory.co/email/images/bh-oct-3-1.jpg" alt="IBM's Transformation: From Hardware to AI" />
+        <mj-text padding="10px 12px" font-family="verdana, Arial" color="#000000">
+          <p style="
+              font-family: -apple-system, BlinkMacSystemFont, 'Avenir Next',
+                Avenir, 'Helvetica Neue', Helvetica, Ubuntu, Roboto, Noto,
+                'Segoe ui', Arial, sans-serif;
+              font-size: 16px;
+              line-height: 1.6;
+            ">In addition to the Alto, PARC also developed <a href="https://www.ontimenet.no/technology-ethernet-history/" target="_blank">Ethernet</a>, a networking technology that allowed computers to communicate over local area networks. This innovation became crucial for the rise of the internet, yet Xerox did not aggressively pursue its commercialization. Instead, Ethernet remained confined to PARC and its research projects, allowing other companies to recognize its value and turn it into a global standard. Companies like Cisco capitalized on Ethernet’s potential, establishing themselves as leaders in networking, while Xerox stood by.</p>
+          <p style="
+              font-family: -apple-system, BlinkMacSystemFont, 'Avenir Next',
+                Avenir, 'Helvetica Neue', Helvetica, Ubuntu, Roboto, Noto,
+                'Segoe ui', Arial, sans-serif;
+              font-size: 16px;
+              line-height: 1.6;
+            "><a href="https://web.stanford.edu/dept/SUL/sites/mac/parc.html" target="_blank">Steve Jobs visited PARC in 1979</a>. He was introduced to the GUI and other innovations developed at the center. Inspired by what he saw, Jobs brought these concepts back to Apple, incorporating the GUI into the Macintosh, which launched in 1984. This pivotal move positioned Apple as a leader in personal computing and set the standard for user-friendly interfaces. Microsoft followed suit with Windows, further driving the adoption of these ideas. Meanwhile, Xerox watched as others capitalized on the innovations it had pioneered, feeling the impact of its decisions in the marketplace.</p>
+          <p style="
+              font-family: -apple-system, BlinkMacSystemFont, 'Avenir Next',
+                Avenir, 'Helvetica Neue', Helvetica, Ubuntu, Roboto, Noto,
+                'Segoe ui', Arial, sans-serif;
+              font-size: 16px;
+              line-height: 1.6;
+            ">Despite its missed opportunities in personal computing, Xerox achieved commercial success with the development of the laser printer, which was also created at PARC. The laser printer became a cornerstone of Xerox's business and helped maintain its reputation in the printing industry. However, the company’s focus on copiers and printers meant it overlooked the seismic shifts in the computing landscape.</p>
+          <p style="
+              font-family: -apple-system, BlinkMacSystemFont, 'Avenir Next',
+                Avenir, 'Helvetica Neue', Helvetica, Ubuntu, Roboto, Noto,
+                'Segoe ui', Arial, sans-serif;
+              font-size: 16px;
+              line-height: 1.6;
+            ">In the late 1980s, Xerox attempted to pivot with the launch of Xerox Technology Ventures, aiming to extend its innovations into new markets. However, by that time, the personal computing revolution had already taken off, and the momentum had shifted to other companies. Xerox struggled to regain its footing in a rapidly evolving industry where it had once been a leader.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- divider sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- 2 columns section -->
+    <mj-section background-color="white">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="verdana, Arial">
+          <p style="
+              font-family: -apple-system, BlinkMacSystemFont, 'Avenir Next',
+                Avenir, 'Helvetica Neue', Helvetica, Ubuntu, Roboto, Noto,
+                'Segoe ui', Arial, sans-serif;
+              color: #667085;
+              line-height: 2;
+            "> Send us your feedback at <a href="mailto:readers@businesshistory.co" target="_blank">readers@businesshistory.co</a>. </p>
+          <p style="
+              font-family: -apple-system, BlinkMacSystemFont, 'Avenir Next',
+                Avenir, 'Helvetica Neue', Helvetica, Ubuntu, Roboto, Noto,
+                'Segoe ui', Arial, sans-serif;
+              color: #667085;
+              line-height: 2;
+            "> Interested in connecting with curious, informed readers? <a href="https://www.businesshistory.co/advertise#advertise-form" target="_blank">Advertise with us</a>. </p>
+          <p style="
+              font-family: -apple-system, BlinkMacSystemFont, 'Avenir Next',
+                Avenir, 'Helvetica Neue', Helvetica, Ubuntu, Roboto, Noto,
+                'Segoe ui', Arial, sans-serif;
+              color: #667085;
+              line-height: 2;
+            ">
+            <a href="https://www.businesshistory.co/unsubscribe?email=test@test.com" target="_blank">Unsubscribe</a> from this email.
+          </p>
+          <p style="
+              font-family: -apple-system, BlinkMacSystemFont, 'Avenir Next',
+                Avenir, 'Helvetica Neue', Helvetica, Ubuntu, Roboto, Noto,
+                'Segoe ui', Arial, sans-serif;
+              color: #667085;
+              line-height: 2;
+            ">30 <span>N</span> <span>Gould</span> <span>St, Ste N, Sheridan, WY 82801, United States</span></p>
+          <p style="
+              font-family: -apple-system, BlinkMacSystemFont, 'Avenir Next',
+                Avenir, 'Helvetica Neue', Helvetica, Ubuntu, Roboto, Noto,
+                'Segoe ui', Arial, sans-serif;
+              color: #667085;
+              line-height: 2;
+            ">Copyright © 2024 Sagravia LLC, All rights reserved.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>

@@ -1,0 +1,131 @@
+<mjml>
+  <mj-head>
+    <mj-style> h2,img,p { margin:0; } td{ padding-top:0 !important; } p {margin-bottom: 10px;}</mj-style>
+  </mj-head>
+  <mj-body background-color="#f0f1f3">
+    <!-- Logo Header -->
+    <mj-section background-color="#ffffff" padding-top="50px">
+      <mj-column>
+        <mj-spacer height="60px" />
+        <mj-image css-class="light_img" width="250px" src="https://www.businesshistory.co/logo.png" href="https://www.businesshistory.co" alt="logo" />
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text font-family="verdana, Arial" color="#000000">
+          <h2 style="
+              font-size: 18px;
+              line-height: 1.2;
+              font-weight: 700;
+              margin-top: 30px !important;
+            "> IBM's Transformation: From Hardware to AI </h2>
+        </mj-text>
+        <mj-text font-family="verdana, Arial" color="#000000">
+          <p style="
+              font-family: -apple-system, BlinkMacSystemFont, 'Avenir Next',
+                Avenir, 'Helvetica Neue', Helvetica, Ubuntu, Roboto, Noto,
+                'Segoe ui', Arial, sans-serif;
+              font-size: 16px;
+              line-height: 1.6;
+            "> In the early 20th century, mechanical systems dominated the business landscape, and a company named IBM emerged as a leader in this evolving world. Founded in 1911 as the Computing-Tabulating-Recording Company (CTR), IBM initially specialized in business equipment such as punch card machines, time recorders, and scales. These innovative inventions revolutionized data processing across various industries, from government to finance. IBM’s vision was to enhance business efficiency through automation, and for several decades, this approach positioned the company at the forefront of business technology. </p>
+          <p style="
+              font-family: -apple-system, BlinkMacSystemFont, 'Avenir Next',
+                Avenir, 'Helvetica Neue', Helvetica, Ubuntu, Roboto, Noto,
+                'Segoe ui', Arial, sans-serif;
+              font-size: 16px;
+              line-height: 1.6;
+            "> However, as the world moved toward digital computing, IBM wasn’t content with sticking to its roots. In 1953, IBM launched the 701, its first large-scale electronic computer. This move cemented its role in the computer industry, with the company leading in both technological innovation and market dominance. </p>
+          <p style="
+              font-family: -apple-system, BlinkMacSystemFont, 'Avenir Next',
+                Avenir, 'Helvetica Neue', Helvetica, Ubuntu, Roboto, Noto,
+                'Segoe ui', Arial, sans-serif;
+              font-size: 16px;
+              line-height: 1.6;
+            "> In 1981, IBM made another groundbreaking move by releasing its first personal computer, the IBM PC. Before this innovation, computers were enormous machines primarily reserved for corporations and government entities. The IBM PC changed this dynamic, making computing power accessible to households and small businesses. With its iconic blue logo, IBM set the standard for the personal computer industry. Many conventions we still use today, including the QWERTY keyboard layout and the foundational architecture of modern PCs, stemmed from IBM's early designs. </p>
+        </mj-text>
+        <mj-image width="600px" src="https://www.businesshistory.co/email/images/bh-oct-1-1.jpg" alt="IBM's Transformation: From Hardware to AI" />
+        <mj-text font-family="verdana, Arial" color="#000000">
+          <p style="
+              font-family: -apple-system, BlinkMacSystemFont, 'Avenir Next',
+                Avenir, 'Helvetica Neue', Helvetica, Ubuntu, Roboto, Noto,
+                'Segoe ui', Arial, sans-serif;
+              font-size: 16px;
+              line-height: 1.6;
+            "> However, as competition intensified with the rise of tech giants like Microsoft and Apple, IBM began to face challenges. The company that once dominated the computing world struggled to adapt to the rapidly changing technological landscape. By the 1990s, the personal computing revolution had evolved beyond IBM's control, leading to a decline in its market position. </p>
+          <p style="
+              font-family: -apple-system, BlinkMacSystemFont, 'Avenir Next',
+                Avenir, 'Helvetica Neue', Helvetica, Ubuntu, Roboto, Noto,
+                'Segoe ui', Arial, sans-serif;
+              font-size: 16px;
+              line-height: 1.6;
+            "> Faced with this existential challenge, IBM pivoted. In a bold move, IBM shifted its focus from hardware to services and software. In 2005, it sold its PC division to Lenovo, marking the end of an era for the company that had once pioneered the personal computer market. Instead, IBM zeroed in on the future—cloud computing, data analytics, AI, and enterprise solutions. </p>
+          <p style="
+              font-family: -apple-system, BlinkMacSystemFont, 'Avenir Next',
+                Avenir, 'Helvetica Neue', Helvetica, Ubuntu, Roboto, Noto,
+                'Segoe ui', Arial, sans-serif;
+              font-size: 16px;
+              line-height: 1.6;
+            "> This shift marked a true reinvention of IBM. By transforming from a hardware-focused giant into a powerhouse of software and services, IBM demonstrated that adaptability is crucial for survival in the fast-paced tech world. The company's evolution not only preserved its legacy but also established it as a forward-thinking leader in technology. </p>
+          <p style="
+              font-family: -apple-system, BlinkMacSystemFont, 'Avenir Next',
+                Avenir, 'Helvetica Neue', Helvetica, Ubuntu, Roboto, Noto,
+                'Segoe ui', Arial, sans-serif;
+              font-size: 16px;
+              line-height: 1.6;
+            "> Today, <a href="https://www.ibm.com/us-en" target="_blank">IBM</a> is an industry leader in AI, cloud computing, and enterprise services, continuing to shape the future of technology just as it has for the past century. </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- divider sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding-top="20px" />
+      </mj-column>
+    </mj-section>
+    <!-- 2 columns section -->
+    <mj-section background-color="white">
+      <mj-column>
+        <mj-text font-family="verdana, Arial">
+          <p style="
+              font-family: -apple-system, BlinkMacSystemFont, 'Avenir Next',
+                Avenir, 'Helvetica Neue', Helvetica, Ubuntu, Roboto, Noto,
+                'Segoe ui', Arial, sans-serif;
+              color: #667085;
+              line-height: 2;
+            "> Send us your feedback at <a href="mailto:readers@businesshistory.co" target="_blank">readers@businesshistory.co</a>. </p>
+          <p style="
+              font-family: -apple-system, BlinkMacSystemFont, 'Avenir Next',
+                Avenir, 'Helvetica Neue', Helvetica, Ubuntu, Roboto, Noto,
+                'Segoe ui', Arial, sans-serif;
+              color: #667085;
+              line-height: 2;
+            "> Interested in connecting with curious, informed readers? <a href="https://www.businesshistory.co/advertise#advertise-form" target="_blank">Advertise with us</a>. </p>
+          <p style="
+              font-family: -apple-system, BlinkMacSystemFont, 'Avenir Next',
+                Avenir, 'Helvetica Neue', Helvetica, Ubuntu, Roboto, Noto,
+                'Segoe ui', Arial, sans-serif;
+              color: #667085;
+              line-height: 2;
+            ">
+            <a href="https://www.businesshistory.co/unsubscribe?email=test@test.com" target="_blank">Unsubscribe</a> from this email.
+          </p>
+          <p style="
+              font-family: -apple-system, BlinkMacSystemFont, 'Avenir Next',
+                Avenir, 'Helvetica Neue', Helvetica, Ubuntu, Roboto, Noto,
+                'Segoe ui', Arial, sans-serif;
+              color: #667085;
+              line-height: 2;
+            ">30 <span>N</span> <span>Gould</span> <span>St, Ste N, Sheridan, WY 82801, United States</span></p>
+          <p style="
+              font-family: -apple-system, BlinkMacSystemFont, 'Avenir Next',
+                Avenir, 'Helvetica Neue', Helvetica, Ubuntu, Roboto, Noto,
+                'Segoe ui', Arial, sans-serif;
+              color: #667085;
+              line-height: 2;
+            ">Copyright © 2024 Sagravia LLC, All rights reserved.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
